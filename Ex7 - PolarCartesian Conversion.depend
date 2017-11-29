@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1508873894 source:f:\com prog 2\exercises\ex7 - polarcartesian conversion\ex7 - polarcartesian conversion\main.cpp
+	<iostream>
+
+1509548434 source:d:\com prog 2\exercises\ex7 - polarcartesian conversion\ex7 - polarcartesian conversion\main.cpp
+	<iostream>
+	<math.h>
+
